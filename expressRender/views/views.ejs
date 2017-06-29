@@ -1,0 +1,13 @@
+<% include partials/header %>
+        
+ <h1>You have been killed by: <%=thingVar%></h1>             
+<%  if(thingVar.toLowerCase() === 'chaos') { %>
+<p>You have been tainted by Warp</p>
+<% } else { %>
+<p>Glory to the Emperor</p>
+<% } %>
+            
+<% include partials/footer %>
+        
+
+

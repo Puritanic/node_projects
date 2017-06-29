@@ -1,0 +1,12 @@
+body {
+    color: orange;
+    background: darkred;
+}
+div {
+    width: 400px;
+    height: auto;
+}
+div img {
+   width:80%;
+   height: auto;
+}

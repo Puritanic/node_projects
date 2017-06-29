@@ -1,0 +1,14 @@
+{
+  "name": "expressrouting",
+  "version": "1.0.0",
+  "description": "An express assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Puritanic",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
